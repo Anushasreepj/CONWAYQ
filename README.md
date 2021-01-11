@@ -16,4 +16,5 @@ mvn clean install
 and then go to the GameOfLifeApp.java and run the code
 
 #### UML Diagram
-![Game of life](https://user-images.githubusercontent.com/57875037/104117106-cb4ede80-531e-11eb-9975-6b4b0f34100e.png)
+![Game of life](https://user-images.githubusercontent.com/57875037/104139524-59bd7180-53ac-11eb-8643-42ff23a43e1e.png)
+
