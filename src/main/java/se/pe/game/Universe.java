@@ -26,7 +26,7 @@ class Universe {
         val random = new Random();
 
         loop(universe, (i, j) -> {
-            universe[i][j] = new Cell(i, j, random.nextInt(3));
+            universe[i][j] = new Cell(i, j, random.nextInt(2));
         });
 
     }
